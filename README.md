@@ -22,15 +22,11 @@ A Haxe/[OpenFL](https://www.openfl.org) library for **@:native** video playback 
 
 To install **hxvlc**, follow these steps:
 
-1. **Haxelib Installation**
-   ```bash
-   haxelib install hxvlc
-   ```
-2. **Haxelib Git Installation (for latest updates)**
+1. **Haxelib Git Installation**
    ```bash
    haxelib git hxvlc https://github.com/MAJigsaw77/hxvlc.git
    ```
-3. **Project Configuration** (Add the following code to your **project.xml** file)
+2. **Project Configuration** (Add the following code to your **project.xml** file)
    ```xml
    <section if="cpp">
    	<haxelib name="hxvlc" if="desktop || mobile" />
