@@ -24,7 +24,7 @@ To install **hxvlc**, follow these steps:
 
 1. **Haxelib Git Installation**
    ```bash
-   haxelib git hxvlc https://github.com/MAJigsaw77/hxvlc.git
+   haxelib git hxvlc https://github.com/dtwotwo/hxvlc-dtwotwo
    ```
 2. **Project Configuration** (Add the following code to your **project.xml** file)
    ```xml
